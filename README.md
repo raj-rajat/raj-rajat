@@ -1,8 +1,8 @@
-# Hi, I'm Rajat Raj 👋🏻 🧑🏻‍💻
+# 🌟 Welcome to my GitHub! I'm Rajat Raj 🧑🏻‍💻
 
-I'm a data analyst with 3 years of experience in the retail industry. I'm passionate about making data-driven decisions, and I specialize in BigQuery and data analysis. I'm currently based in Bangalore, India (UTC +05:30).
+With over 3 years of experience in the retail industry as a data analyst, I'm driven by the power of data and the impactful decisions it can steer. My specialty lies in BigQuery and data analysis, and my passion for the field has only grown with time. Currently, I'm located in Bangalore, India (UTC +05:30).
 
-## 🛠 Technologies & Tools
+## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;
@@ -17,7 +17,7 @@ I'm a data analyst with 3 years of experience in the retail industry. I'm passio
 ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow)&nbsp;
 ![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=Composer)&nbsp;
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/raj-rajat">
@@ -26,11 +26,11 @@ I'm a data analyst with 3 years of experience in the retail industry. I'm passio
   </a>
 </p>
 
-## 🌐 Latest Blog Posts
+## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## 💼 Skills
+## 🧰 Skills
 
 - **Languages**: Python, SQL
 - **Tools**: BigQuery, MicroStrategy, IBM Cognos, NetSuite, Shopify, Vscode, Power BI, Tableau, Airflow, Composer
@@ -38,12 +38,12 @@ I'm a data analyst with 3 years of experience in the retail industry. I'm passio
 - **Databases**: MySQL, PostgreSQL
 - **Cloud Computing Providers**: Google Cloud
 
-## 📫 How to Reach Me
+## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/rajatraj98) 🦸🏻‍♂️
-- Drop me an email at rajatraj.ba@gmail.com 💌
+- LinkedIn: [rajatraj98](https://www.linkedin.com/in/rajatraj98)
+- Email: rajatraj.ba@gmail.com
 
-## 🏆 Certifications
+## 🎓 Certifications
 
 - [MicroStrategy Certified - Analyst](https://www.credential.net/addf1df8-e034-4df8-9bd9-154fc13d4727)
 - [Accenture Data Analytics Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_akjGDc4dYaYD2Bd2k_1652640153063_completion_certificate.pdf)
@@ -51,13 +51,13 @@ I'm a data analyst with 3 years of experience in the retail industry. I'm passio
 - [KPMG Data Analytics Consulting Virtual Internship](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_akjGDc4dYaYD2Bd2k_1646047923671_completion_certificate.pdf)
 - [PG Program in Data Science & Engineering](https://eportfolio.mygreatlearning.com/rajat-raj2)
 
-## 🎉 Achievements
+## 🏅 Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=raj-rajat&column=7)](https://github.com/raj-rajat/github-profile-trophy)
 
-## 📈 Recent Projects
+## 📂 Recent Projects
 
-I love working on different data projects. Here are a few I've recently worked on:
+Check out some of the projects I've been dedicating my time to:
 
 - [🌐 FT Global Business School - Top 100 MBA Ranking 2023](https://github.com/raj-rajat/FT-Global-Business-School-Top-100-MBA-Ranking-2023)
 - [🌐 World's Biggest Data Breaches & Hacks](https://github.com/raj-rajat/World-s-Biggest-Data-Breaches-Hacks)
@@ -80,4 +80,4 @@ I love working on different data projects. Here are a few I've recently worked o
 
 ---
 
-⭐️ From [Rajat Raj](https://github.com/raj-rajat)
+⭐️ Crafted with ❤️ by [Rajat Raj](https://github.com/raj-rajat)
