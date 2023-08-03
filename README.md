@@ -1,115 +1,83 @@
-<h1 align="center">👋 Hi, I'm Rajat Raj!</h1>
+# Hi, I'm Rajat Raj 👋🏻 🧑🏻‍💻
 
-<h3 align="center">Data Analyst & Machine Learning Enthusiast</h3>
+I'm a data analyst with 3 years of experience in the retail industry. I'm passionate about making data-driven decisions, and I specialize in BigQuery and data analysis. I'm currently based in Bangalore, India (UTC +05:30).
 
-<p align="center">
-  <img src="https://img.shields.io/badge/location-Bangalore,%20India-blue" alt="Location: Bangalore, India" />
-  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20SQL-blue" alt="Languages: Python | SQL" />
-  <img src="https://img.shields.io/badge/Expertise-BigQuery-blue" alt="Expertise: BigQuery" />
-  <img src="https://img.shields.io/badge/Experience-3%20years-blue" alt="Experience: 3 years" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=raj-rajat.raj-rajat" alt="visitor badge"/>
-</p>
+## 🛠 Technologies & Tools
 
----
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;
+![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=Google-Cloud)&nbsp;
+![MicroStrategy](https://img.shields.io/badge/-MicroStrategy-05122A?style=flat&logo=MicroStrategy)&nbsp;
+![IBM Cognos](https://img.shields.io/badge/-IBMCognos-05122A?style=flat&logo=IBM)&nbsp;
+![NetSuite](https://img.shields.io/badge/-NetSuite-05122A?style=flat&logo=Oracle)&nbsp;
+![Shopify](https://img.shields.io/badge/-Shopify-05122A?style=flat&logo=Shopify)&nbsp;
+![Vscode](https://img.shields.io/badge/-Vscode-05122A?style=flat&logo=VisualStudioCode)&nbsp;
+![Power BI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=PowerBI)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)&nbsp;
+![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow)&nbsp;
+![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=Composer)&nbsp;
 
-## 📚 About Me
-
-I'm a Data Analyst with 3 years of experience in the retail industry, specializing in BigQuery and data analysis. I'm currently based in Bangalore, India (UTC +05:30).
-
-## 🚀 Interests
-
-📊 Data Analysis  
-🤖 Machine Learning
-
-## 🛠 Tools & Technologies
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/BigQuery-FFCA28?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Data_Visualization-FE2E2E?style=for-the-badge" alt="Data Visualization" />
+  <a href="https://github.com/raj-rajat">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raj-rajat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raj-rajat&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
----
+## 🌐 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 💼 Skills
+
+- **Languages**: Python, SQL
+- **Tools**: BigQuery, MicroStrategy, IBM Cognos, NetSuite, Shopify, Vscode, Power BI, Tableau, Airflow, Composer
+- **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow
+- **Databases**: MySQL, PostgreSQL
+- **Cloud Computing Providers**: Google Cloud
+
+## 📫 How to Reach Me
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/rajatraj98) 🦸🏻‍♂️
+- Drop me an email at rajatraj.ba@gmail.com 💌
+
+## 🏆 Certifications
+
+- [MicroStrategy Certified - Analyst](https://www.credential.net/addf1df8-e034-4df8-9bd9-154fc13d4727)
+- [Accenture Data Analytics Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_akjGDc4dYaYD2Bd2k_1652640153063_completion_certificate.pdf)
+- [Quantium Data Analytics Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_akjGDc4dYaYD2Bd2k_1651102364494_completion_certificate.pdf)
+- [KPMG Data Analytics Consulting Virtual Internship](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_akjGDc4dYaYD2Bd2k_1646047923671_completion_certificate.pdf)
+- [PG Program in Data Science & Engineering](https://eportfolio.mygreatlearning.com/rajat-raj2)
+
+## 🎉 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=raj-rajat&column=7)](https://github.com/raj-rajat/github-profile-trophy)
 
 ## 📈 Recent Projects
 
 I love working on different data projects. Here are a few I've recently worked on:
 
-- [🌐 World's Biggest Data Breaches & Hacks](#)
-- [🏢 Top 500 Companies in Bangalore, India](#)
-- [✈️ World Airports](#)
-- [🎥 TV Movie Metadata with Genres and Ratings 2023](#)
-- [💼 Company Financials Dataset](#)
-- [🍳 Kaggle Survey 2017-2022 in Long Format](#)
-- [💥 Nuclear Explosions Data](#)
-- [🎬 Bollywood Actress Name And Movie List](#)
-- [🛍️ E-Commerce Analysis - UK](#)
-- [🚗 Automobiles Cars Project Dataset](#)
-- [🎗️ Increasing Breast Cancer Awareness](#)
-- [🎮 Top 1000 Steam Games 2023](#)
-- [📱 Mobile Recommendation System Dataset](#)
+- [🌐 FT Global Business School - Top 100 MBA Ranking 2023](https://github.com/raj-rajat/FT-Global-Business-School-Top-100-MBA-Ranking-2023)
+- [🌐 World's Biggest Data Breaches & Hacks](https://github.com/raj-rajat/World-s-Biggest-Data-Breaches-Hacks)
+- [🏢 Top 500 Companies in Bangalore, India](https://github.com/raj-rajat/Top-500-Companies-in-Bangalore-Bengaluru-India)
+- [✈️ World Airports](https://github.com/raj-rajat/World-Airports)
+- [🎥 TV Movie Metadata with Genres and Ratings 2023](https://github.com/raj-rajat/TV-Movie-Metadata-with-Genres-and-Ratings-2023-)
+- [💼 Company Financials Dataset](https://github.com/raj-rajat/Company-Financials-Dataset)
+- [🍳 Kaggle Survey 2017-2022 in Long Format](https://github.com/raj-rajat/kaggle-survey-2017-2022-long-format)
+- [💥 Nuclear Explosions Data](https://github.com/raj-rajat/Nuclear-Explosions-Data)
+- [🎬 Bollywood Actress Name And Movie List](https://github.com/raj-rajat/Bollywood-Actress-Name-And-Movie-List-)
+- [🚗 Automobiles Cars Project Dataset](https://github.com/raj-rajat/Automobiles-Cars-Project-Dataset)
+- [🎗️ Increasing Breast Cancer Awareness](https://github.com/raj-rajat/Increasing-Breast-Cancer-Awareness)
+- [🎮 Top 1000 Steam Games 2023](https://github.com/raj-rajat/Top-1000-Steam-Games-2023)
+- [📱 Mobile Recommendation System Dataset](https://github.com/raj-rajat/Mobile-Recommendation-System-Dataset)
+- [🚗 Road Accidents Data - 2022](https://github.com/raj-rajat/Road-Accidents-Data--2022)
+- [💼 Stock Market Dataset](https://github.com/raj-rajat/Stock-Market-Dataset)
+- [💰 Salary dataset based on country and race](https://github.com/raj-rajat/Salary-dataset-based-on-country-and-race)
+- [📷 Threads - an Instagram app Reviews](https://github.com/raj-rajat/Threads-an-Instagram-app-Reviews)
+- [🏢 Fortune 500 Companies](https://github.com/raj-rajat/Fortune-500-Companies)
 
 ---
 
-## 💻 GitHub Stats and Activity
-
-<p align="center">
-  <a href="https://github.com/raj-rajat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=raj-rajat&show_icons=true&theme=radical" alt="Rajat's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/raj-rajat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-rajat&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/raj-rajat">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj-rajat&theme=radical" alt="Rajat's Streak Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/raj-rajat">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=raj-rajat&theme=github" alt="Rajat's GitHub Activity Graph" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@[your-wakatime-username]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=[your-wakatime-username]&theme=radical" alt="Rajat's Wakatime Stats" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a href="https://github.com/raj-rajat">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=raj-rajat&theme=radical" alt="Rajat's GitHub Trophies" />
-  </a>
-</p>
-
----
-
-## 🎧 Spotify Now Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/[your-spotify-user-id]">
-    <img align="center" src="https://novatorem.vercel.app/api/spotify" alt="Rajat's Spotify Now Playing" />
-  </a>
-</p>
-
----
-
-## 📫 How to reach me
-
-I'm always open for discussions and collaborations. Feel free to connect with me:
-
-<p align="center">
-  <a href="mailto:[your-email-id]"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/rajatraj98"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo
+⭐️ From [Rajat Raj](https://github.com/raj-rajat)
