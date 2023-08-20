@@ -77,6 +77,11 @@ Check out some of the projects I've been dedicating my time to:
 - [💰 Salary dataset based on country and race](https://github.com/raj-rajat/Salary-dataset-based-on-country-and-race)
 - [📷 Threads - an Instagram app Reviews](https://github.com/raj-rajat/Threads-an-Instagram-app-Reviews)
 - [🏢 Fortune 500 Companies](https://github.com/raj-rajat/Fortune-500-Companies)
+- [📊 EDA of ChatpGPT Prompts](https://github.com/raj-rajat/ChatpGPT-Prompts/blob/85bfd5db4d2e7b8bfe9c056388af29a38b830042/eda-of-chatpgpt-prompts.ipynb)
+- [🏋️‍♂️ Sports Supplements](https://github.com/raj-rajat/Sports-Supplements/blob/6452f1c6b35b2f2404c49f8f3b1376a4cdffffb9/sports-supplements.ipynb)
+- [🤖 From Data Entry to CEO: The AI Job Threat Index](https://github.com/raj-rajat/From-Data-Entry-to-CEO-The-AI-Job-Threat-Index/blob/966715858a364224b099b36ad90171abeed030a4/from-data-entry-to-ceo-the-ai-job-threat-index.ipynb)
+
+
 
 ---
 
