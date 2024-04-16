@@ -31,13 +31,6 @@ Harnessing the power of data through predictive modeling and data visualization,
   <a href="https://www.linkedin.com/in/rajrajat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-## 📚 Interactive Visualizations
-
-Embed interactive visualizations and tools directly in your README with external links or iFrames. Showcase the dynamic nature of your projects:
-
-- **[Interactive Dashboard: Global Data Trends](#)** (Link to a hosted version of your dashboard)
-- **[Notebook Viewer: Explore My Jupyter Notebooks](https://nbviewer.jupyter.org/)** (Link to your Jupyter Notebooks hosted on NBViewer)
-
 ## 🧰 Professional Skills
 
 - **Programming**: Proficient in Python and SQL.
